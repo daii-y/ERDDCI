@@ -1,0 +1,8 @@
+Reconstruction Test Results (Input Folder: ./ReconDataset/imagenetr-ti2i/, Output Folder: ./ReconDataset/imagenetr-ti2i/recon_G1S50):
+Processing image: a cartoon of a castle.jpg
+Processing image: a cartoon of a cat.jpg
+Processing image: a cartoon of a goldfish.jpg
+Processing image: a cartoon of a hummingbird.jpg
+Processing image: a cartoon of a panda.jpg
+Processing image: a painting of a goldfish.jpg
+Processing image: a painting of a jeep.jpg
